@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = williamkpettersen@outlook.com
+	name = William Pettersen
